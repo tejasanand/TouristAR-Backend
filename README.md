@@ -1,1 +1,1 @@
-# visual-market-ai-backend
+# TouristAR-Backend
