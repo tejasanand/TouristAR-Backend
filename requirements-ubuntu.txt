@@ -1,0 +1,6 @@
+libasound2-dev
+libpulse-dev
+pocketsphinx
+pulseaudio
+swig
+gcc
