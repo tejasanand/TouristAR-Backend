@@ -43,14 +43,7 @@ Soft Skills-
 ## What's next for Tourist AR
 
 - Add more data/models for different locations throughout the world. Moreover, create a creator's account where creators can add models and description of a location themselves.
-- Create a more life like experience by adding the functionality of a map where user chooses a specific point inside a location and is lead to that model. For example, user is given a map of a museum and they select the location inside the museum(like, second floor's entrance) and they are presented with the models kept at that location.
-
-## Judging Criteria
-
-- Problem Solving: People not able to immerse themselves with different locations and experience them in 3d is a real problem that deprives humans from recreational and educational activities.
-- Development Complexity: The app is quite complex as it is a full stack iOS/Android application with a functional Frontend, Backend & Database. Along with that it uses complex technologies like Artificial Intelligence and Augmented Reality.
-- Aesthetics: User experience, UI and aesthetics have been the paramount aspect of our project. We believe that a happy user accounts for a successful project which we strived for.
-- Presentation: As a team, we have put a whole lot of effort in the presentation aspect of the project as well. (Describing the devpost robustly, creating a descriptive video and explaining everything in the Readme of the project)
+- Create a more life like experience by adding the functionality of a map where user chooses a specific point inside a location and is lead to that model. For example, user is given a map of a museum and they select the location inside the museum(like, second floor's entrance) and they are presented with the models kept at that location
 
 1. [Front-end GitHub repository (using React Native)](https://github.com/AdityaGoyal1999/Tourist-AR)
 2. [Back-end GitHub repository (using Flask)](https://github.com/TejasAnand/TouristAR-Backend)
